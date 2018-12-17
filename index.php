@@ -5,3 +5,5 @@
   <img src='<?=$vendorURL?>images/Ducati_Logo1.png' width="200">
  <br />
  <img src='<?=$vendorURL?>images/mv_agusta.jpg' width="200">
+ <br />
+ <img src='<?=$vendorURL?>images/honda.jpg' width="200">
